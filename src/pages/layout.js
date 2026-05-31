@@ -603,9 +603,9 @@ function createFooter() {
       <div class="footer-section">
         <h3>Follow Us</h3>
         <ul>
-          <li><a href="#" target="_blank">LinkedIn</a></li>
-          <li><a href="#" target="_blank">Facebook</a></li>
-          <li><a href="#" target="_blank">Twitter</a></li>
+          <li><a href="https://wa.me/8618018567786" target="_blank"WhatsApp</a></li>
+          <li><a href="https://www.facebook.com/profile.php?id=100007805827864" target="_blank">Facebook</a></li>
+          <li><a href="imila.cn" target="_blank">Instagram</a></li>
         </ul>
       </div>
     </div>

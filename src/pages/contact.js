@@ -84,7 +84,7 @@ export async function contactPage(env) {
           <div>
             <h3 style="font-size: 1.25rem; margin-bottom: 1rem; color: var(--primary-color);">Follow Us</h3>
             <div style="display: flex; gap: 1rem;">
-              <a href="#" style="width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; background: var(--primary-color); color: white; border-radius: 50%; text-decoration: none; font-size: 1.2rem;">f</a>
+              <a href="https://www.facebook.com/profile.php?id=100007805827864" style="width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; background: var(--primary-color); color: white; border-radius: 50%; text-decoration: none; font-size: 1.2rem;">f</a>
               <a href="#" style="width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; background: var(--primary-color); color: white; border-radius: 50%; text-decoration: none; font-size: 1.2rem;">in</a>
               <a href="#" style="width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; background: var(--primary-color); color: white; border-radius: 50%; text-decoration: none; font-size: 1.2rem;">t</a>
             </div>
