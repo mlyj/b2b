@@ -1,0 +1,1 @@
+UPDATE admins SET username = 'ooee', password_hash = '891e12e156d8c6609c6d5f3e04b2fc8da6d9ff3d7e9f906314c0909da69637eb' WHERE id = 1;
