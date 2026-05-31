@@ -603,9 +603,9 @@ function createFooter() {
       <div class="footer-section">
         <h3>Follow Us</h3>
         <ul>
-          <li><a href="https://wa.me/8618018567786" target="_blank"WhatsApp</a>WhatsApp</li>
+          <li><a href="https://wa.me/8618018567786" target="_blank">WhatsApp</a></li>
           <li><a href="https://www.facebook.com/profile.php?id=100007805827864" target="_blank">Facebook</a></li>
-          <li><a href="www.imila.cn" target="_blank">Home</a></li>
+          <li><a href="mailto:TS@imila.cn">Email Us</a></li>
         </ul>
       </div>
     </div>
